@@ -1,4 +1,4 @@
-package com.macpry.mviexample.model
+package com.macpry.mviexample.api.model
 
 import com.google.gson.annotations.SerializedName
 
